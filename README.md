@@ -1,0 +1,44 @@
+# Spotlight AI Assistant
+Your Instant Desktop AI Companion
+
+## Introduction
+Spotlight AI Assistant is a lightweight desktop AI assistant,
+as convenient as Spotlight Search, ready to serve you anytime.
+
+## Core Features
+
+### Quick Launch
+- Press `⌘ + /` to activate
+- Clean interface design
+- Real-time AI responses
+- Smart clipboard integration
+
+### AI Capabilities
+Supports multiple AI providers:
+- OpenAI (GPT-4, GPT-4o, GPT-4o-mini)
+- DeepSeek (DeepSeek-Chat, DeepSeek-Coder)
+- Ollama (Local AI API)
+
+### Smart Features
+- Always-on-top window
+- Automatic clipboard monitoring
+- Quick preset prompts
+- Multiple AI engine switching
+
+## Quick Start
+1. Download and install
+2. Configure AI service
+3. Start using with `⌘ + /`
+
+### Basic Operations
+- Show/Hide: `⌘ + /`
+- Send message: Enter
+- New line: Shift + Enter
+- Reference clipboard: Toggle checkbox
+
+## Support
+- Email: wf_21cn@163.com
+- Version: 1.0.0
+
+## Copyright
+Copyright © 2025 Wang Fei. All rights reserved. 

@@ -1,8 +1,8 @@
-# Spotlight AI Assistant
+# Floating AI Assistant
 Your Instant Desktop AI Companion
 
 ## Introduction
-Spotlight AI Assistant is a lightweight desktop AI assistant,
+Floating AI Assistant is a lightweight desktop AI assistant,
 as convenient as Spotlight Search, ready to serve you anytime.
 
 ## Core Features

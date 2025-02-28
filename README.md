@@ -15,8 +15,7 @@ as convenient as Spotlight Search, ready to serve you anytime.
 
 ### AI Capabilities
 Supports multiple AI providers:
-- OpenAI (GPT-4, GPT-4o, GPT-4o-mini)
-- DeepSeek (DeepSeek-Chat, DeepSeek-Coder)
+- DeepSeek (DeepSeek-R1:7b) *Embedded in App
 - Ollama (Local AI API)
 
 ### Smart Features

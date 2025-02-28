@@ -1,19 +1,18 @@
 # Privacy Policy
 
-Last Updated: February 15, 2024
+Last Updated: February 28, 2025
 
 ## Introduction
 Thank you for using Floating AI Assistant (hereinafter referred to as "the Application"). This Privacy Policy explains how we handle your information.
 
 ## Information Collection and Use
 - The Application itself does not collect, store, or transmit any of your personal information
-- When you use the Application to call DeepSeek or OpenAI API, your input will be sent to DeepSeek and OpenAI API servers. The processing of this data will comply with DeepSeek and OpenAI API's privacy policies
+- When you use the Application to call DeepSeek API, your input will be sent to DeepSeek API servers. The processing of this data will comply with DeepSeek API supplier's privacy policies
 - The Application does not save your chat history locally or in the cloud
 
 ## Third-Party Services
 The Application uses the following third-party services:
-- DeepSeek API: Used to process your conversation requests. Please review [DeepSeek's Privacy Policy](https://platform.deepseek.com/policies) for details
-- OpenAI API: Used to process your conversation requests. Please review [OpenAI's Privacy Policy](https://openai.com/policies/privacy-policy) for details
+- DeepSeek API: Used to process your conversation requests. Please review [siliconflow's Privacy Policy](https://docs.siliconflow.cn/en/legals/privacy-policy) for details
 
 ## Data Security
 - The Application uses HTTPS encryption to ensure secure communication between you and the AI Provider APIs

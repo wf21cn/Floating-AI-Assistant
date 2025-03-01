@@ -39,5 +39,9 @@ Supports multiple AI providers:
 - Email: wf_21cn@163.com
 - Version: 1.0.0
 
+## Related Documents
+- [Privacy Policy](PrivacyPolicy.md)
+- [Terms of Service](Terms.md)
+
 ## Copyright
 Copyright © 2025 Wang Fei. All rights reserved. 

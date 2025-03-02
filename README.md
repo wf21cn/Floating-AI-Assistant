@@ -41,7 +41,8 @@ Supports multiple AI providers:
 
 ## Related Documents
 - [Privacy Policy](PrivacyPolicy.md)
-- [Terms of Service](Terms.md)
+- [Privacy Policy](PrivacyPolicy.md)
+- This app is subject to the [Standard Apple EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ## Copyright
 Copyright © 2025 Wang Fei. All rights reserved. 

@@ -3,8 +3,12 @@
 Last Updated: February 28, 2025
 
 ## Introduction
-Thank you for using Floating AI Assistant (hereinafter referred to as "the Application") -[README](README.md)
+Thank you for using Floating AI Assistant (hereinafter referred to as "the Application").
 This Privacy Policy explains how we handle your information.
+
+## Related Documents
+- [README](README.md)
+- This app is subject to the [Standard Apple EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ## Information Collection and Use
 - The Application itself does not collect, store, or transmit any of your personal information

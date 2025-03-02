@@ -41,7 +41,6 @@ Supports multiple AI providers:
 
 ## Related Documents
 - [Privacy Policy](PrivacyPolicy.md)
-- [Privacy Policy](PrivacyPolicy.md)
 - This app is subject to the [Standard Apple EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ## Copyright
